@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRUDCSHARP 2", "CRUDCSHARP 2\CRUDCSHARP 2.csproj", "{DB05B766-D4DA-4520-A7F3-98D152008EBE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB05B766-D4DA-4520-A7F3-98D152008EBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB05B766-D4DA-4520-A7F3-98D152008EBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB05B766-D4DA-4520-A7F3-98D152008EBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB05B766-D4DA-4520-A7F3-98D152008EBE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1BAB2EE2-40CB-4DAC-8E89-AED7B04802E7}
+	EndGlobalSection
+EndGlobal
